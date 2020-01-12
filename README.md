@@ -1,2 +1,2 @@
-# SheSaves-
+# SheSaves
 SheHacks IV Project
